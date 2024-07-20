@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Deposit",
+    "date": "10 Jul 2023",
+    "amount": 500,
+    "status": "Completed"
+  },
+  {
+    "type": "Withdrawal",
+    "date": "12 Jul 2023",
+    "amount": 200,
+    "status": "Pending"
+  },
+  {
+    "type": "Interest Payment",
+    "date": "15 Jul 2023",
+    "amount": 50,
+    "status": "Completed"
+  },
+  {
+    "type": "Deposit",
+    "date": "20 Jul 2023",
+    "amount": 300,
+    "status": "Completed"
+  },
+  {
+    "type": "Withdrawal",
+    "date": "22 Jul 2023",
+    "amount": 100,
+    "status": "Failed"
+  },
+  {
+    "type": "Interest Payment",
+    "date": "25 Jul 2023",
+    "amount": 25,
+    "status": "Completed"
+  }
+]
